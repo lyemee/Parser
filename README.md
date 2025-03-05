@@ -1,2 +1,2 @@
 # Parser
-Developing parsing program using C++
+Developing parsing program using C
